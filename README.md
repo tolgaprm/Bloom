@@ -1,6 +1,5 @@
 # Template repository
 
-⛔️ DEPRECATED. This repo is no longer being maintained.
 
 Template repository for the Jetpack Compose [#AndroidDevChallenge](https://developer.android.com/dev-challenge). March 2021.
 
@@ -30,8 +29,6 @@ Before committing your code, run `./gradlew app:spotlessApply` to automatically 
 ![dev_challenge_speed](https://user-images.githubusercontent.com/2998890/117301782-e536a300-ae72-11eb-8f42-a7a12151ee5e.png)
 Design mocks for the speed round can be found here:
 * [Bloom](https://github.com/android/android-dev-challenge-compose/blob/assets/Bloom.zip)
-* [MySoothe](https://github.com/android/android-dev-challenge-compose/blob/assets/MySoothe.zip)
-* [WeTrade](https://github.com/android/android-dev-challenge-compose/blob/assets/WeTrade.zip)
 
 ## License
 ```
